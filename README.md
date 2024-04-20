@@ -5,6 +5,7 @@ I'm a Mechatronic Engineer and a student of Artificial Intelligence specializati
 #### 💬 Get in Touch:
 - LinkedIn: [in/alejandropr05](https://www.linkedin.com/in/alejandropr05)
 - Email: [alejandropr05@hotmail.com](mailto:alejandropr05@hotmail.com)
+- Website: [Alejandro Perdomo | Portfolio](https://alejandropr5.github.io/portfolio/)
 
 Feel free to explore my projects and repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project! 
 
