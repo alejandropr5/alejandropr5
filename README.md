@@ -1,4 +1,4 @@
-### Hi there, I'm Alejandro Perdomo 👋
+### Hi! I'm Alejandro Perdomo 👋
 
 I'm a Mechatronic Engineer and a student of Artificial Intelligence specialization, with a passion for technology and solving real-world problems. My journey includes various projects spanning machine learning, robotics, web applications, APIs, data analysis, computer vision, among others.
 
